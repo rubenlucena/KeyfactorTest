@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VcNu/O2/BFQINSzZKZLcN8tMoJWJprvlQNA+EolaGCY=",
+  "Source": "Keyfactor",
+  "BasePath": "_content/Keyfactor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
